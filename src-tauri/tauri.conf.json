@@ -61,6 +61,10 @@
         "title": "Work 2 Earn",
         "width": 800
       }
-    ]
+    ],
+    "systemTray": {
+      "iconPath": "icons/icon.png",
+      "iconAsTemplate": true
+    }
   }
 }
